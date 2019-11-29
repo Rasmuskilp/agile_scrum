@@ -128,11 +128,11 @@ o	During sprint planning ``
 ##	Generating a sustainable pace
 ##	Definition of done D.O.D
 ### Difference between AGILE and Scrum
-#agile is iterative, consists of 3 steps - plan - do -test
-#scrum is an implementation technique for AGILE
-#scrum includes sprint and how the team should implement time & task management
-#roles are assigned for some members of the team or outside
-#relies on solving 'user stories' - problems that an imaginary person might have that the programme requires a solution for
+- agile is iterative, consists of 3 steps - plan - do -test
+- scrum is an implementation technique for AGILE
+- scrum includes sprint and how the team should implement time & task management
+- roles are assigned for some members of the team or outside
+- relies on solving 'user stories' - problems that an imaginary person might have that the programme requires a solution for
 #`sprint consists of a  product backlog, sprint planning, sprint backlog, team tasks, which Includes
 daily scrum. Then there is sprint review, increment and sprint retrospective.
 Similar to a system with feedback task, solution.`
