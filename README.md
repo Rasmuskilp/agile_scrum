@@ -135,6 +135,6 @@ o	During sprint planning ``
 - roles are assigned for some members of the team or outside
 - relies on solving 'user stories' - problems that an imaginary person might have that the programme requires a solution for
 - burnout chart, showing progress/mood of individual team members
-#`sprint consists of a  product backlog, sprint planning, sprint backlog, team tasks, which Includes
+- `sprint consists of a  product backlog, sprint planning, sprint backlog, team tasks, which Includes
 daily scrum. Then there is sprint review, increment and sprint retrospective.
 Similar to a system with feedback task, solution.`
