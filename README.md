@@ -46,14 +46,14 @@ o	Same time and place every day
 o	Focuses on goals and failures
 o	Facilitated by scrum master
 ##	Sprint review at the end
-`•	Informal discussion about what was done and to adapt the product backlog
-•	Explain what has been done and what hasn’t
+-`•	Informal discussion about what was done and to adapt the product backlog
+- •	Explain what has been done and what hasn’t
 •	Demonstrate the working package
 •	Review timeline, budget, capabilities
 •	timeboxed`
 ##	Team retrospective
-•	Identify what was well and what needed improvement
-`•	The sprint retrospective is a meeting facilitated by the Scrum Master at which the team discusses the just-concluded sprint and determines what could be change that might make the next sprint more productive. ... It often also helps management to get feedback from the team about the work and progress of project.
+-Identify what was well and what needed improvement
+-`	The sprint retrospective is a meeting facilitated by the Scrum Master at which the team discusses the just-concluded sprint and determines what could be change that might make the next sprint more productive. ... It often also helps management to get feedback from the team about the work and progress of project.
 `	During the sprint
 •	No changes are made to endanger sprint goal
 •	Short planning horizon
@@ -128,11 +128,13 @@ o	During sprint planning ``
 ##	Generating a sustainable pace
 ##	Definition of done D.O.D
 ### Difference between AGILE and Scrum
-- agile is iterative, consists of 3 steps - plan - do -test
+- agile is iterative, consists of 4 main steps - plan - implement -test - review
+- Agile methodology is a type of project management process, mainly used for software development, where demands and solutions evolve through the collaborative effort of self-organizing and cross-functional teams and their customers.
 - scrum is an implementation technique for AGILE
 - scrum includes sprint and how the team should implement time & task management
 - roles are assigned for some members of the team or outside
 - relies on solving 'user stories' - problems that an imaginary person might have that the programme requires a solution for
+- burnout chart, showing progress/mood of individual team members
 #`sprint consists of a  product backlog, sprint planning, sprint backlog, team tasks, which Includes
 daily scrum. Then there is sprint review, increment and sprint retrospective.
 Similar to a system with feedback task, solution.`
